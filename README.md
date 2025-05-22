@@ -87,10 +87,14 @@ Performance comparison of baselines on different datasets in terms of AUROC and 
 If you find this work helpful to your research, please kindly consider citing our paper.
 
 ```
-@article{AutoDR,
+@article{wang2025automatic,
   title={Automatic collaborative learning for drug repositioning},
-  author={Yi Wang, Yajie Meng, Chang Zhou, Xianfang Tang, Pan Zeng, Chu Pan, Qiang Zhu, Bengong Zhang, Junlin Xu},
-  year={2024},
+  author={Wang, Yi and Meng, Yajie and Zhou, Chang and Tang, Xianfang and Zeng, Pan and Pan, Chu and Zhu, Qiang and Zhang, Bengong and Xu, Junlin},
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={139},
+  pages={109653},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
 
